@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="700" height="500" viewBox="0 0 700 500" >
+     <rect x="475" y="360" width="150px" height="70px" rx="100" ry="100" fill="#DCDCDC"/>
+    <circle cx="550" cy="300" r="100" fill="#FFD700"/>
+    <circle cx="510" cy="280" r="42" fill="white"/>
+    <circle cx="570" cy="280" r="42" fill="white"/>
+    <circle cx="555" cy="280" r="8" fill="black"/>
+    <circle cx="505" cy="280" r="8" fill="black"/>
+    <rect x="530" y="330" width="15px" height="30px" rx="50" ry="50" fill="red"/>
+    <rect x="175" y="360" width="150px" height="70px" rx="100" ry="100" fill="#DCDCDC"/>
+    <circle cx="250" cy="300" r="100" fill="#F4A460"/>
+    <circle cx="225" cy="280" r="42" fill="white"/>
+    <circle cx="290" cy="280" r="42" fill="white"/>
+    <circle cx="240" cy="280" r="8" fill="black"/>
+    <circle cx="295" cy="280" r="8" fill="black"/>
+    <circle cx="258" cy="320" r="13" fill="black"/>
+    <rect x="220" y="340" width="40px" height="15px" rx="50" ry="50" fill="red"/>
+    <polygon points="180 230, 240 205, 200 170" fill="#F4A460"/>
+    <polygon points="250 200, 310 220, 290 170" fill="#F4A460"/>
+    <polygon points="190 215, 230 200, 202 180" fill="black"/>
+    <polygon points="260 200, 300 210, 289 180" fill="black"/>
+    <ellipse rx="100" ry="40" cx="210" cy="290" fill="#F4A460" transform="rotate(20 120 -30)"/> 
+    <polygon points="10 270, 30 305, 50 260" fill="white"/>
+    </svg>
